@@ -1,5 +1,9 @@
 # vue-how-to
 
+This project is created by [vue-cli](https://cli.vuejs.org/)
+
+Vue.js is a versatile library to prototype projects. This repo is created to contain [w3schools how to](https://www.w3schools.com/howto/) practices
+
 ## Project setup
 ```
 npm install
